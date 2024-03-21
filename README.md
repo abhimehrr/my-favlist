@@ -4,10 +4,10 @@ MyFavList is a web application that allows users to save their interests to a wi
 
 ## Gallery
 
-![Register Page](https://abhi.shre.in/assets/screenshots/my-fav-list/Register%2001.jpg")
-![Verify Account Page]("https://abhi.shre.in/assets/screenshots/my-fav-list/Register%2002.jpg")
-![Login Page]("https://abhi.shre.in/assets/screenshots/my-fav-list/Login.jpg")
-![Home Page]("https://abhi.shre.in/assets/screenshots/my-fav-list/Home.jpg")
+![Register Page](https://abhi.shre.in/assets/screenshots/my-fav-list/Register%2001.jpg)
+![Verify Account Page](https://abhi.shre.in/assets/screenshots/my-fav-list/Register%2002.jpg)
+![Login Page](https://abhi.shre.in/assets/screenshots/my-fav-list/Login.jpg)
+![Home Page](https://abhi.shre.in/assets/screenshots/my-fav-list/Home.jpg)
 
 
 ## Features
