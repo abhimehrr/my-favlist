@@ -1,5 +1,5 @@
-export const host = "https://favlist.shre.in/";
-// export const host = "http://localhost:5000/";
+// export const host = "/";
+export const host = "http://localhost:5000/";
 
 // Use Fetch
 export async function useFetch (route, { method, authtoken='', body={} }) {

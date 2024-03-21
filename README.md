@@ -4,10 +4,11 @@ MyFavList is a web application that allows users to save their interests to a wi
 
 ## Gallery
 
-![Register Page][https://abhi.shre.in/assets/screenshots/my-fav-list/Register%2001.jpg"]
-![Verify Account Page]["https://abhi.shre.in/assets/screenshots/my-fav-list/Register%2002.jpg"]
-![Login Page]["https://abhi.shre.in/assets/screenshots/my-fav-list/Login.jpg"]
-![Home Page]["https://abhi.shre.in/assets/screenshots/my-fav-list/Home.jpg"]
+![Register Page](https://abhi.shre.in/assets/screenshots/my-fav-list/Register%2001.jpg")
+![Verify Account Page]("https://abhi.shre.in/assets/screenshots/my-fav-list/Register%2002.jpg")
+![Login Page]("https://abhi.shre.in/assets/screenshots/my-fav-list/Login.jpg")
+![Home Page]("https://abhi.shre.in/assets/screenshots/my-fav-list/Home.jpg")
+
 
 ## Features
 
@@ -38,14 +39,17 @@ To get a local copy of the project up and running, follow these steps:
    ```bash
    npm install
 
+
 4. Set up the environment variables:
    - Create a `.env` file in the root directory.
    - Or create a `secrets.js` file
    - Define the required variables in the `.env` or `secrets.js` file:
 
+
 5. Start the development server:
    ```bash
    npm run dev
+
 
 ## Let's Talk
 
